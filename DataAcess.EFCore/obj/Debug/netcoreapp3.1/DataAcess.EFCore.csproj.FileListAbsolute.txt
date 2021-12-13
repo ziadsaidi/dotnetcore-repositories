@@ -1,0 +1,16 @@
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\bin\Debug\netcoreapp3.1\DataAcess.EFCore.deps.json
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\bin\Debug\netcoreapp3.1\DataAcess.EFCore.dll
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\bin\Debug\netcoreapp3.1\DataAcess.EFCore.pdb
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\obj\Debug\netcoreapp3.1\DataAcess.EFCore.csproj.AssemblyReference.cache
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\obj\Debug\netcoreapp3.1\DataAcess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\obj\Debug\netcoreapp3.1\DataAcess.EFCore.AssemblyInfoInputs.cache
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\obj\Debug\netcoreapp3.1\DataAcess.EFCore.AssemblyInfo.cs
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\obj\Debug\netcoreapp3.1\DataAcess.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\obj\Debug\netcoreapp3.1\DataAcess.EFCore.csproj.CopyComplete
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\obj\Debug\netcoreapp3.1\DataAcess.EFCore.dll
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\obj\Debug\netcoreapp3.1\DataAcess.EFCore.pdb
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\bin\Debug\netcoreapp3.1\DataAcess.EFCore.runtimeconfig.json
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\bin\Debug\netcoreapp3.1\DataAcess.EFCore.runtimeconfig.dev.json
+C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\obj\Debug\netcoreapp3.1\DataAcess.EFCore.genruntimeconfig.cache

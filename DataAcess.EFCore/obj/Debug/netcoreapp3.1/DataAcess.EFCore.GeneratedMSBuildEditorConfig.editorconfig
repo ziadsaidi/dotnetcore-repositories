@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DataAcess.EFCore
+build_property.ProjectDir = C:\Users\inov\Desktop\tutorials\p1_07_12\patterns\repo-pattern\DataAcess.EFCore\
